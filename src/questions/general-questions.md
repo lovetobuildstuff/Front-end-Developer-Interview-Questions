@@ -4,6 +4,7 @@ layout: layouts/page.njk
 permalink: /questions/general-questions/index.html
 ---
 
+* How would you handle a difficult client who doesn't seem to understand why you need to conduct a project a specific way?
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
 * What is a recent technical challenge you experienced and how did you solve it?
